@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "typeorm": "^0.2.41"
   },
   "scripts": {
     "start:dev": "nodemon src/index.ts",
